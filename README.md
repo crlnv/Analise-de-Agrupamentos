@@ -6,6 +6,6 @@ National Track Records for Women
 
 - Relatório disponível pdf;
 
-- Código em R (em breve).
+- Código em R.
 
 
